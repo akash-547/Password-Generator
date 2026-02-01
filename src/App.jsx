@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import './App.css'
+import App from './App.css'
 import CodeGeneratorUI from './components/CodeGeneratorUI.jsx'
 function App() {
  
